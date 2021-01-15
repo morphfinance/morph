@@ -24,4 +24,8 @@ Morph Coin Fee Manager: [0xdac9A58030cC9AfbaFaFd4C79226A764dE027b48](https://eth
 
 Morph Tracker Fee Manager: [0xD52287b6EB4F44fC5432c75e0a2b832b27a8c5C7](https://etherscan.io/address/0xD52287b6EB4F44fC5432c75e0a2b832b27a8c5C7)
 
+Morph Coin Transfer Oracle (30m): [0x79ec3d6f4ec56F1Da101fdCF2058442a508D2Fca](https://etherscan.io/address/0x79ec3d6f4ec56F1Da101fdCF2058442a508D2Fca)
+
+Morph Coin Seigniorage Oracle (8hr): [0xC1f71859862a73193bF6c94805b2d6b0CB783Eb3](https://etherscan.io/address/0xC1f71859862a73193bF6c94805b2d6b0CB783Eb3)
+
 Development Fund: [0x2c915Fbeb07383DB96B2Df921AF8d93db3AEc8D1](https://etherscan.io/address/0x2c915Fbeb07383DB96B2Df921AF8d93db3AEc8D1)
