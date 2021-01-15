@@ -15,6 +15,10 @@ Uniswap MORC-DAI: [0x615190214b61393AceAaAc3Fc081CaB5Bc431aAB](https://etherscan
 
 Uniswap MORT-DAI: [0x9926f1E42a19928Bc552E2003fbC9738eA6AE586](https://etherscan.io/address/0x9926f1E42a19928Bc552E2003fbC9738eA6AE586)
 
+DST/DSN -> MORC Migrator: [0x357dfdaa6f70Bd1EcB33282955D2E0056910757e](https://etherscan.io/address/0x357dfdaa6f70Bd1EcB33282955D2E0056910757e)
+
+DSTR -> MORT Migrator: [0xe6F257496577c1591A2bf732Fb50596f9f3064d8](https://etherscan.io/address/0xe6F257496577c1591A2bf732Fb50596f9f3064d8)
+
 ## Other
 Morph Coin Fee Manager: [0xdac9A58030cC9AfbaFaFd4C79226A764dE027b48](https://etherscan.io/address/0xdac9A58030cC9AfbaFaFd4C79226A764dE027b48)
 
