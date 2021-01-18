@@ -26,7 +26,7 @@ DSTR -> MORT Migrator: [0x4C93a9f6A1368F69Ba9a058E9B1c517BDA47C5e5](https://ethe
 Treasury: [0x7a75B23fB853EbE94F29D24969E3580807EB0509](https://etherscan.io/address/0x7a75B23fB853EbE94F29D24969E3580807EB0509)
 
 ## Other
-Morph Coin Fee Manager: [0xdac9A58030cC9AfbaFaFd4C79226A764dE027b48](https://etherscan.io/address/0xdac9A58030cC9AfbaFaFd4C79226A764dE027b48)
+Morph Coin Fee Manager: [0xB4cFB7aB2EF0B2543d8De4faD52E02F6B268E006](https://etherscan.io/address/0xB4cFB7aB2EF0B2543d8De4faD52E02F6B268E006)
 
 Morph Tracker Fee Manager: [0xD52287b6EB4F44fC5432c75e0a2b832b27a8c5C7](https://etherscan.io/address/0xD52287b6EB4F44fC5432c75e0a2b832b27a8c5C7)
 
