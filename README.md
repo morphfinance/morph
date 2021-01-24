@@ -1,5 +1,5 @@
-# Morph Finance
-### Algo Stable Coin
+# [Morph Finance](https://morph.finance)
+### Morph is an elastic stablecoin aiming to keep a price of 1 DAI
 
 # Mainnet Addresses
 ## Tokens
